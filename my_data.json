@@ -1,22 +1,22 @@
 {
-  "first-name": "Firstname",
-  "last-name": "Lastname",
-  "address": "5500 University Pkwy, San Bernardino, CA 92407",
-  "phone": "(123)456-7890",
-  "email": "name@mail.com",
-  "introduction": "A introduction of youself ...",
+  "first-name": "Rick",
+  "last-name": "Ramirez",
+  "address": "11538 Ambrosio Dr. Desert Hot Springs, CA. 92240",
+  "phone": "(760)673-8937",
+  "email": "ramirez09r@gmail.com",
+  "introduction": "Something about me coming soon...",
   "experience":[
     {
-      "title":"WEB DEVELOPER",
-      "employer":"CSUSB",
-      "period":"March 2018 - Present",
-      "description":"A description of your experience with this job."
+      "title":"SYSTEM PROGRAMMER",
+      "employer":"Morongo Band of Mission Indiands",
+      "period":"June 2021 - Present",
+      "description":"Surveillance system programmer ."
     },
     {
-      "title":"APPLICATION DEVELOPER",
-      "employer":"CSUSB",
-      "period":"March 2018 - 2021",
-      "description":"A description of your experience with this job."
+      "title":"Emergency Medical Technician - Paramedic",
+      "employer":"American Medical Response",
+      "period":"September 2003 - June 2021",
+      "description":"Emergency medical services."
     }
   ]
 }
